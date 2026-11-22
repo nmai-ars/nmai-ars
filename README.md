@@ -50,11 +50,6 @@ Desktop application for hotel management.
 - Java, MySQL.
 - Developed management features and database operations.
 
-### 3. LAN Control System
-Network management system using TCP/IP.
-- Java, JavaFX, MySQL.
-- Developed client-server communication and network monitoring features.
-
 ## 📊 GitHub Statistics
 
 <div align="center">
