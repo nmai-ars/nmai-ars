@@ -63,8 +63,6 @@ Network management system using TCP/IP.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmai-ars&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=nmai-ars&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ## 🌐 Connect With Me
