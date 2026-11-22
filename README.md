@@ -70,7 +70,7 @@ Desktop application for hotel management.
 
 <div align="center">
 
-### ✨ "404: Limits Not Found."
+### ✨ 404: Limits Not Found.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" />
 
